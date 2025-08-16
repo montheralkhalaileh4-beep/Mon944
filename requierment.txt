@@ -1,15 +1,4 @@
-random
-datetime
-kivy.app.App
-kivy.lang.Builder
-kivy.properties.StringProperty
-kivy.properties.NumericProperty
-kivy.properties.ListProperty
-kivy.properties.BooleanProperty
-kivy.uix.screenmanager.ScreenManager
-kivy.uix.screenmanager.Screen
-kivy.uix.popup.Popup
-kivy.uix.label.Label
-kivy.clock.Clock
-kivy.utils.platform
-plyer.tts
+* tkinter
+* random
+* datetime
+* pyttsx3
